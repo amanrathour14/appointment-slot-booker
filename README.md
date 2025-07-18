@@ -8,7 +8,9 @@ A simple and clean React-based application to book 30-minute time slots for appo
 
 > 📌 Add screenshots or demo GIFs here  
 > Example:  
-> ![Appointment Booking Preview](Dashboard Screenshot.jpg)
+> ![Dashboard Screenshot](https://github.com/user-attachments/assets/81b44355-54ea-48ad-9896-a2b7974b83aa)
+
+
 
 ---
 
